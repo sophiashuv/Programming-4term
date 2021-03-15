@@ -1,0 +1,308 @@
+
+----------TASK1----------
+ALL ASCs: 
+	Marka: Mark0
+	Price: 87.4
+	Count: 27
+	AllPayment: 2359.8
+
+	Marka: Mark1
+	Price: 72.1
+	Count: 85
+	AllPayment: 6128.5
+
+	Marka: Mark2
+	Price: 76.2
+	Count: 32
+	AllPayment: 2438.4
+
+	Marka: Mark3
+	Price: 12.7
+	Count: 34
+	AllPayment: 431.8
+
+	Marka: Mark4
+	Price: 31.2
+	Count: 95
+	AllPayment: 2964
+
+	Marka: Mark5
+	Price: 33.5
+	Count: 32
+	AllPayment: 1072
+
+	Marka: Mark6
+	Price: 66.7
+	Count: 36
+	AllPayment: 2401.2
+
+	Marka: Mark7
+	Price: 56
+	Count: 25
+	AllPayment: 1400
+
+	Marka: Mark8
+	Price: 22.6
+	Count: 17
+	AllPayment: 384.2
+
+	Marka: Mark9
+	Price: 69.9
+	Count: 36
+	AllPayment: 2516.4
+
+MAX ASCs MARKS: 
+	Mark1 - 6128.5
+
+----------TASK2----------
+ALL Payments: 
+	CardNum: 2949824554072212
+	AllPayment: 878.56
+	Marka: Mark0
+	Price: 54.4
+	Count: 19
+
+	CardNum: 1574747219436953
+	AllPayment: 5249.6
+	Marka: Mark1
+	Price: 96.5
+	Count: 64
+
+	CardNum: 326877351632369
+	AllPayment: 5387.98
+	Marka: Mark2
+	Price: 68.9
+	Count: 92
+
+	CardNum: 7198121169131633
+	AllPayment: 959.14
+	Marka: Mark3
+	Price: 21.7
+	Count: 52
+
+	CardNum: 7066067937631317
+	AllPayment: 310.42
+	Marka: Mark4
+	Price: 8.3
+	Count: 44
+
+	CardNum: 3950794604368369
+	AllPayment: 255.765
+	Marka: Mark5
+	Price: 5.9
+	Count: 51
+
+	CardNum: 4942493478096916
+	AllPayment: 1856.4
+	Marka: Mark6
+	Price: 45.5
+	Count: 48
+
+	CardNum: 3409954256184780
+	AllPayment: 4448.73
+	Marka: Mark7
+	Price: 85.8
+	Count: 61
+
+	CardNum: 2951657006820885
+	AllPayment: 3292.9
+	Marka: Mark8
+	Price: 74.5
+	Count: 52
+
+	CardNum: 2319791926237763
+	AllPayment: 2102.475
+	Marka: Mark9
+	Price: 48.5
+	Count: 51
+
+
+MAX CARDS
+	326877351632369 - 5387.98
+
+All Payments
+	Mark0 - 878.56
+	Mark1 - 5249.6
+	Mark2 - 5387.98
+	Mark3 - 959.14
+	Mark4 - 310.42
+	Mark5 - 255.765
+	Mark6 - 1856.4
+	Mark7 - 4448.73
+	Mark8 - 3292.9
+	Mark9 - 2102.475
+
+----------TASK3----------
+ALL Data: 
+	Marka: Mark0
+	Price: 87.4
+	Count: 27
+	AllPayment: 2359.8
+
+	Marka: Mark1
+	Price: 72.1
+	Count: 85
+	AllPayment: 6128.5
+
+	Marka: Mark2
+	Price: 76.2
+	Count: 32
+	AllPayment: 2438.4
+
+	Marka: Mark3
+	Price: 12.7
+	Count: 34
+	AllPayment: 431.8
+
+	Marka: Mark4
+	Price: 31.2
+	Count: 95
+	AllPayment: 2964
+
+	Marka: Mark5
+	Price: 33.5
+	Count: 32
+	AllPayment: 1072
+
+	Marka: Mark6
+	Price: 66.7
+	Count: 36
+	AllPayment: 2401.2
+
+	Marka: Mark7
+	Price: 56
+	Count: 25
+	AllPayment: 1400
+
+	Marka: Mark8
+	Price: 22.6
+	Count: 17
+	AllPayment: 384.2
+
+	Marka: Mark9
+	Price: 69.9
+	Count: 36
+	AllPayment: 2516.4
+
+	CardNum: 2949824554072212
+	AllPayment: 878.56
+	Marka: Mark0
+	Price: 54.4
+	Count: 19
+
+	CardNum: 1574747219436953
+	AllPayment: 5249.6
+	Marka: Mark1
+	Price: 96.5
+	Count: 64
+
+	CardNum: 326877351632369
+	AllPayment: 5387.98
+	Marka: Mark2
+	Price: 68.9
+	Count: 92
+
+	CardNum: 7198121169131633
+	AllPayment: 959.14
+	Marka: Mark3
+	Price: 21.7
+	Count: 52
+
+	CardNum: 7066067937631317
+	AllPayment: 310.42
+	Marka: Mark4
+	Price: 8.3
+	Count: 44
+
+	CardNum: 3950794604368369
+	AllPayment: 255.765
+	Marka: Mark5
+	Price: 5.9
+	Count: 51
+
+	CardNum: 4942493478096916
+	AllPayment: 1856.4
+	Marka: Mark6
+	Price: 45.5
+	Count: 48
+
+	CardNum: 3409954256184780
+	AllPayment: 4448.73
+	Marka: Mark7
+	Price: 85.8
+	Count: 61
+
+	CardNum: 2951657006820885
+	AllPayment: 3292.9
+	Marka: Mark8
+	Price: 74.5
+	Count: 52
+
+	CardNum: 2319791926237763
+	AllPayment: 2102.475
+	Marka: Mark9
+	Price: 48.5
+	Count: 51
+
+	AllPayment: 2897.82
+	Marka: Mark0
+	Price: 94.7
+	Count: 51
+
+	AllPayment: 2237.04
+	Marka: Mark1
+	Price: 47.8
+	Count: 78
+
+	AllPayment: 73.44
+	Marka: Mark2
+	Price: 7.2
+	Count: 17
+
+	AllPayment: 723.84
+	Marka: Mark3
+	Price: 92.8
+	Count: 13
+
+	AllPayment: 138
+	Marka: Mark4
+	Price: 2.5
+	Count: 92
+
+	AllPayment: 4383.36
+	Marka: Mark5
+	Price: 76.1
+	Count: 96
+
+	AllPayment: 1161.6
+	Marka: Mark6
+	Price: 44
+	Count: 44
+
+	AllPayment: 1319.04
+	Marka: Mark7
+	Price: 22.9
+	Count: 96
+
+	AllPayment: 2041.68
+	Marka: Mark8
+	Price: 36.2
+	Count: 94
+
+	AllPayment: 1597.5
+	Marka: Mark9
+	Price: 37.5
+	Count: 71
+
+
+Total Payment: 
+	Mark = Mark0, Payment = 2897.82
+	Mark = Mark1, Payment = 2237.04
+	Mark = Mark2, Payment = 73.44
+	Mark = Mark3, Payment = 723.84
+	Mark = Mark4, Payment = 138
+	Mark = Mark5, Payment = 4383.36
+	Mark = Mark6, Payment = 1161.6
+	Mark = Mark7, Payment = 1319.04
+	Mark = Mark8, Payment = 2041.68
+	Mark = Mark9, Payment = 1597.5
