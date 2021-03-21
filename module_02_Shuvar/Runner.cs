@@ -1,0 +1,29 @@
+using System;
+using System.ComponentModel;
+
+namespace module_02_Shuvar
+{
+    // Бiгун характеризується iменем i прiзвищем, а також номе-ром
+    class Runner
+    {
+        public Runner(string name, string surname, int id)
+        {
+            Name = name;
+            Surname = surname;
+            Id = id;
+        }
+
+        public Runner() { }
+        public string Name { get; set; }
+        public string FullName => Name + " " + Surname;
+        public string Surname { get; set; }
+        public int Id { get; set; }
+
+        public override string ToString() {
+            string res = "";
+            foreach (PropertyDescriptor prop in TypeDescriptor.GetProperties(this)) 
+                res += ($"{prop.Name}: {prop.GetValue(this)}\n");
+            return res;
+        }
+    }
+}
