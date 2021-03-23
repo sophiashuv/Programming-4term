@@ -157,6 +157,44 @@ namespace module_04
       foreach (var book in filteredBooks)
         Console.WriteLine(book);
     }
+    
+        public static void Task3()
+    {
+      PieceProduct pieceProduct1 = new PieceProduct { Title = "Product1", PriceForItem = 120.6 };
+      PieceProduct pieceProduct2 = new PieceProduct { Title = "Product2", PriceForItem = 100 };
+
+      WeightProduct weightProduct1 = new WeightProduct { Title = "Product1", PriceForKg = 112.75 };
+      WeightProduct weightProduct2 = new WeightProduct { Title = "Product2", PriceForKg = 90.5 };
+
+      Service service1 = new Service { Title = "Aaass", Price = 250.75 };
+      Service service2 = new Service { Title = "Weeer", Price = 400.5 };
+      Service service3 = new Service { Title = "Mmmmt", Price = 100.5 };
+
+      IProduct[] items = new IProduct[] { pieceProduct1, pieceProduct2, weightProduct1, weightProduct2, service1, service2, service3 };
+
+      Card card = new Card { Client = "Client1", Bonuses = 0, UsingService = false, Discount = 5 };
+
+      double sum = 0;
+      for (int i = 0; i < items.Length; i++)
+      {
+        sum += items[i].CountPriceWithSale(card);
+      }
+
+      Console.WriteLine("All price: ");
+      Console.Write(sum);
+      Console.WriteLine("\n\nBonuses: ");
+      Console.Write(card.Bonuses);
+
+      Card card2 = new Card { Client = "Client2", Bonuses = 0, UsingService = true, Discount = 15 };
+      Service[] services = new Service[] { service1, service2, service3 };
+      Array.Sort(services, new ServiceComparer());
+      Console.WriteLine("\n\nSorted array: ");
+
+      for (int i = 0; i < services.Length; i++)
+      {
+        Console.WriteLine(services[i]);
+      }
+    }
 
     
     public static void Main(string[] args)
