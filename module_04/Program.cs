@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using module_04.Properties;
 
 namespace module_04
 {
@@ -158,7 +159,7 @@ namespace module_04
         Console.WriteLine(book);
     }
     
-        public static void Task3()
+    public static void Task3()
     {
       PieceProduct pieceProduct1 = new PieceProduct { Title = "Product1", PriceForItem = 120.6 };
       PieceProduct pieceProduct2 = new PieceProduct { Title = "Product2", PriceForItem = 100 };
@@ -199,10 +200,11 @@ namespace module_04
     
     public static void Main(string[] args)
     {
-      Task1();
-      Console.WriteLine("-------------------------------");
-      Task2();
-      Console.WriteLine("-------------------------------");
+      // Task1();
+      // Console.WriteLine("-------------------------------");
+      // Task2();
+      // Console.WriteLine("-------------------------------");
+      Task3();
     }
   }
 }
