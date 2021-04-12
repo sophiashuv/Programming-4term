@@ -1,0 +1,10 @@
+T green 23 blue 16 black 17
+R 23 16
+T green 2 red 16 black 8
+R 23 98
+T yellow 100 red 120 black 15
+T yellow 100 yellow 120 yellow 15
+T green 50 green 120 green 15
+T green 60 green 120 green 15
+T yellow 100 yellow 120 yellow 15
+T blue 50 blue 120 blue 15
