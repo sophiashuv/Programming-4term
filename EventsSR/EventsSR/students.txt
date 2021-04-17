@@ -1,0 +1,5 @@
+StudentA PMI-23 5 5 5 5
+StudentB PMI-23 4 5 1 3
+StudentC PMI-22 3 5 3 3
+StudentD PMI-25 2 5 1 3
+StudentF PMI-21 4 5 2 3
