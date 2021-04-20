@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfSettlement xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Settlement xsi:type="City">
+    <Name>Lviv</Name>
+    <Area>183.01</Area>
+  </Settlement>
+  <Settlement xsi:type="City">
+    <Name>Kyiv</Name>
+    <Area>839</Area>
+  </Settlement>
+  <Settlement xsi:type="Village">
+    <Name>Synevir</Name>
+    <Area>135</Area>
+  </Settlement>
+  <Settlement xsi:type="City">
+    <Name>Kharkiv</Name>
+    <Area>350</Area>
+  </Settlement>
+  <Settlement xsi:type="Village">
+    <Name>Chervone</Name>
+    <Area>89</Area>
+  </Settlement>
+</ArrayOfSettlement>

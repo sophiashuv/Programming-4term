@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfCity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <City>
+    <Name>Lviv</Name>
+    <Area>183.01</Area>
+  </City>
+  <City>
+    <Name>Kyiv</Name>
+    <Area>839</Area>
+  </City>
+  <City>
+    <Name>Synevir</Name>
+    <Area>135</Area>
+  </City>
+  <City>
+    <Name>Kharkiv</Name>
+    <Area>350</Area>
+  </City>
+  <City>
+    <Name>Chervone</Name>
+    <Area>89</Area>
+  </City>
+</ArrayOfCity>
