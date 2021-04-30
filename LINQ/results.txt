@@ -1,0 +1,17 @@
+Surname,School,Ukr,Math,History
+Surname01,School1,175,180,190
+Surname02,School2,189,191,163
+Surname03,School4,123,145,195
+Surname04,School1,187,153,135
+Surname05,School3,173,143,126
+Surname11,School1,200,159,160
+Surname12,School2,200,200,200
+Surname15,School2,199,190,189
+Surname16,School4,138,137,146
+Student17,School4,80,100,70
+Student18,School4,150,80,70
+Surname07,School1,200,199,180
+Surname08,School3,137,138,146
+Surname09,School4,159,146,189
+Surname10,School3,197,195,200
+Surname06,School2,70,200,170
