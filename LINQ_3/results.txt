@@ -1,0 +1,187 @@
+ALL patients: 
+	Name: Shuvar
+	Surname: Sophia
+	Id: 11111
+	FullName: Shuvar Sophia
+
+	Name: Oksana
+	Surname: Somar
+	Id: 22222
+	FullName: Oksana Somar
+
+	Name: Anastasia
+	Surname: Veres
+	Id: 33333
+	FullName: Anastasia Veres
+
+	Name: Max
+	Surname: Stefankiv
+	Id: 44444
+	FullName: Max Stefankiv
+
+	Name: Valeria
+	Surname: Mahdenko
+	Id: 55555
+	FullName: Valeria Mahdenko
+
+	Name: Ivan
+	Surname: Ivanov
+	Id: 66666
+	FullName: Ivan Ivanov
+
+ALL assigments: 
+	UserId: 11111
+	Date: 5/9/2020 12:00:00 AM
+	MedicineName: Name1
+	Dose: 5
+	Amount: 3
+	AllAmount: 15
+
+	UserId: 11111
+	Date: 5/10/2020 12:00:00 AM
+	MedicineName: Name2
+	Dose: 10
+	Amount: 3
+	AllAmount: 30
+
+	UserId: 44444
+	Date: 6/10/2020 12:00:00 AM
+	MedicineName: Name1
+	Dose: 15
+	Amount: 2
+	AllAmount: 30
+
+	UserId: 55555
+	Date: 7/1/2020 12:00:00 AM
+	MedicineName: Name3
+	Dose: 10
+	Amount: 3
+	AllAmount: 30
+
+	UserId: 22222
+	Date: 5/2/2020 12:00:00 AM
+	MedicineName: Name1
+	Dose: 20
+	Amount: 3
+	AllAmount: 60
+
+	UserId: 33333
+	Date: 3/5/2020 12:00:00 AM
+	MedicineName: Name3
+	Dose: 15
+	Amount: 2
+	AllAmount: 30
+
+	UserId: 66666
+	Date: 4/7/2020 12:00:00 AM
+	MedicineName: Name4
+	Dose: 25
+	Amount: 3
+	AllAmount: 75
+
+	UserId: 22222
+	Date: 5/9/2020 12:00:00 AM
+	MedicineName: Name3
+	Dose: 5
+	Amount: 3
+	AllAmount: 15
+
+	UserId: 11111
+	Date: 7/10/2020 12:00:00 AM
+	MedicineName: Name1
+	Dose: 10
+	Amount: 4
+	AllAmount: 40
+
+	UserId: 33333
+	Date: 6/10/2020 12:00:00 AM
+	MedicineName: Name2
+	Dose: 15
+	Amount: 3
+	AllAmount: 45
+
+	UserId: 44444
+	Date: 7/7/2020 12:00:00 AM
+	MedicineName: Name2
+	Dose: 15
+	Amount: 3
+	AllAmount: 45
+
+	UserId: 55555
+	Date: 5/2/2020 12:00:00 AM
+	MedicineName: Name3
+	Dose: 15
+	Amount: 2
+	AllAmount: 30
+
+	UserId: 22222
+	Date: 8/5/2020 12:00:00 AM
+	MedicineName: Name4
+	Dose: 15
+	Amount: 3
+	AllAmount: 45
+
+	UserId: 66666
+	Date: 5/7/2020 12:00:00 AM
+	MedicineName: Name3
+	Dose: 25
+	Amount: 3
+	AllAmount: 75
+
+
+----------TASK1----------
+Shuvar Sophia
+	Name1: 55
+	Name2: 30
+Oksana Somar
+	Name1: 60
+	Name3: 15
+	Name4: 45
+Anastasia Veres
+	Name3: 30
+	Name2: 45
+Max Stefankiv
+	Name1: 30
+	Name2: 45
+Valeria Mahdenko
+	Name3: 60
+Ivan Ivanov
+	Name4: 75
+	Name3: 75
+
+----------TASK2----------
+5/9/2020 12:00:00 AM
+	Name1: 15
+	Name3: 15
+5/10/2020 12:00:00 AM
+	Name2: 30
+6/10/2020 12:00:00 AM
+	Name1: 30
+	Name2: 45
+7/1/2020 12:00:00 AM
+	Name3: 30
+5/2/2020 12:00:00 AM
+	Name1: 60
+	Name3: 30
+3/5/2020 12:00:00 AM
+	Name3: 30
+4/7/2020 12:00:00 AM
+	Name4: 75
+7/10/2020 12:00:00 AM
+	Name1: 40
+7/7/2020 12:00:00 AM
+	Name2: 45
+8/5/2020 12:00:00 AM
+	Name4: 45
+5/7/2020 12:00:00 AM
+	Name3: 75
+
+----------TASK3----------
+Name1
+	Sum: 145
+Name2
+	Sum: 120
+Name3
+	Sum: 180
+Name4
+	Sum: 120
