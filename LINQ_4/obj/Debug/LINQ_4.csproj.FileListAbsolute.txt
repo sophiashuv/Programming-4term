@@ -1,0 +1,9 @@
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/bin/Debug/LINQ_4.exe
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/bin/Debug/LINQ_4.pdb
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/bin/Debug/Newtonsoft.Json.dll
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/bin/Debug/Newtonsoft.Json.xml
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/obj/Debug/LINQ_4.csprojAssemblyReference.cache
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/obj/Debug/LINQ_4.csproj.CoreCompileInputs.cache
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/obj/Debug/LINQ_4.csproj.CopyComplete
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/obj/Debug/LINQ_4.exe
+/Users/sophiyca/RiderProjects/LINQ_4/LINQ_4/obj/Debug/LINQ_4.pdb
