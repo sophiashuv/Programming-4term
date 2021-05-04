@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Name1",
+    "Group": 1,
+    "Rating": 1
+  },
+  {
+    "Name": "Name2",
+    "Group": 2,
+    "Rating": 7
+  },
+  {
+    "Name": "Name3",
+    "Group": 3,
+    "Rating": 4
+  },
+  {
+    "Name": "Name4",
+    "Group": 3,
+    "Rating": 4
+  },
+  {
+    "Name": "Name4",
+    "Group": 3,
+    "Rating": 8
+  },
+  {
+    "Name": "Name9",
+    "Group": 2,
+    "Rating": 45
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Surname": "Name1",
+    "Group": "CS1",
+    "Year": 2002,
+    "Grades": [90, 50, 47]
+  },
+  {
+    "Surname": "Name2",
+    "Group": "CS2",
+    "Year": 2000,
+    "Grades": [90, 99, 100, 100]
+  },
+  {
+    "Surname": "Name3",
+    "Group": "CS3",
+    "Year": 2001,
+    "Grades": [67, 89, 78]
+  },
+  {
+    "Surname": "Name4",
+    "Group": "CS1",
+    "Year": 2001,
+    "Grades": [87, 57, 90]
+  },
+  {
+    "Surname": "Name4",
+    "Group": "CS3",
+    "Year": 2000,
+    "Grades": [90, 50, 47, 67]
+  },
+  {
+    "Surname": "Name9",
+    "Group": "CS2",
+    "Year": 2002,
+    "Grades": [90, 50, 47, 35]
+  },
+  {
+    "Surname": "Name10",
+    "Group": "CS2",
+    "Year": 2002,
+    "Grades": [90, 50, 47, 35]
+  }
+]
