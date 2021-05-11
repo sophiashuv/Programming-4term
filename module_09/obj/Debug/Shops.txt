@@ -1,0 +1,4 @@
+Shop1:Teсhnical TeсhnicalBook1 45 30,Teсhnical TeсhnicalBook2 45 57,Teсhnical TeсhnicalBook3 45 57,Fiction FictionBook1 67 100 
+Shop2:Teсhnical TeсhnicalBook1 47 100,Teсhnical TeсhnicalBook3 67 90,Teсhnical TeсhnicalBook4 45 57,Fiction FictionBook2 70 100,Fiction FictionBook1 70 100  
+Shop3:Fiction FictionBook2 47 50,Teсhnical TeсhnicalBook3 67 90,Teсhnical TeсhnicalBook1 45 57,Fiction FictionBook2 70 100,Fiction FictionBook1 70 100
+Shop4:Fiction FictionBook2 47.9897 50,Teсhnical TeсhnicalBook3 67 90,Fiction FictionBook2 70 100,Fiction FictionBook1 70 100,Teсhnical TeсhnicalBook1 47 100,Fiction FictionBook3 80 100

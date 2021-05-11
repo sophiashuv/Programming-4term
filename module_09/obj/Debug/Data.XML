@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<ArrayOfShop xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Shop>
+    <Title>Shop1</Title>
+    <Books>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook1</Title>
+        <Price>45</Price>
+        <Amount>30</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook2</Title>
+        <Price>45</Price>
+        <Amount>57</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook3</Title>
+        <Price>45</Price>
+        <Amount>57</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook1</Title>
+        <Price>67</Price>
+        <Amount>100</Amount>
+      </Book>
+    </Books>
+  </Shop>
+  <Shop>
+    <Title>Shop2</Title>
+    <Books>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook1</Title>
+        <Price>47</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook3</Title>
+        <Price>67</Price>
+        <Amount>90</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook4</Title>
+        <Price>45</Price>
+        <Amount>57</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook2</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook1</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+    </Books>
+  </Shop>
+  <Shop>
+    <Title>Shop3</Title>
+    <Books>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook2</Title>
+        <Price>47</Price>
+        <Amount>50</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook3</Title>
+        <Price>67</Price>
+        <Amount>90</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook1</Title>
+        <Price>45</Price>
+        <Amount>57</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook2</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook1</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+    </Books>
+  </Shop>
+  <Shop>
+    <Title>Shop4</Title>
+    <Books>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook3</Title>
+        <Price>67</Price>
+        <Amount>90</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook2</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook1</Title>
+        <Price>70</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="TeсhnicalBook">
+        <Title>TeсhnicalBook1</Title>
+        <Price>47</Price>
+        <Amount>100</Amount>
+      </Book>
+      <Book xsi:type="FictionBook">
+        <Title>FictionBook3</Title>
+        <Price>80</Price>
+        <Amount>100</Amount>
+      </Book>
+    </Books>
+  </Shop>
+</ArrayOfShop>      <Title>FictionBook3</Title>
+        <Price>80</Price>
+        <Amount>100</Amount>
+      </Book>
+    </Books>
+  </Shop>
+</ArrayOfShop>
