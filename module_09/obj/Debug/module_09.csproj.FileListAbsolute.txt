@@ -1,0 +1,8 @@
+/Users/sophiyca/RiderProjects/module_09/module_09/bin/Debug/module_09.exe
+/Users/sophiyca/RiderProjects/module_09/module_09/bin/Debug/module_09.pdb
+/Users/sophiyca/RiderProjects/module_09/module_09/obj/Debug/module_09.csprojAssemblyReference.cache
+/Users/sophiyca/RiderProjects/module_09/module_09/obj/Debug/module_09.csproj.CoreCompileInputs.cache
+/Users/sophiyca/RiderProjects/module_09/module_09/obj/Debug/module_09.exe
+/Users/sophiyca/RiderProjects/module_09/module_09/obj/Debug/module_09.pdb
+/Users/sophiyca/RiderProjects/module_09/module_09/bin/Debug/System.ComponentModel.Annotations.dll
+/Users/sophiyca/RiderProjects/module_09/module_09/obj/Debug/module_09.csproj.CopyComplete
