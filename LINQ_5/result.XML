@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TotalTime>
+  <Result>
+    <Runner>Name2 Surname2</Runner>
+    <Time>201</Time>
+  </Result>
+  <Result>
+    <Runner>Name1 Surname1</Runner>
+    <Time>285</Time>
+  </Result>
+</TotalTime>
