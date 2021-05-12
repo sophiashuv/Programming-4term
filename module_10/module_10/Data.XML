@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfUniversity xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <University>
+    <Title>University3</Title>
+    <Year>1661</Year>
+    <Faculties>
+      <Faculty xsi:type="Staz">
+        <Title>Faculty1</Title>
+        <StudentsAmount>350</StudentsAmount>
+        <Specialty>Specialty1</Specialty>
+      </Faculty>
+      <Faculty xsi:type="Staz">
+        <Title>Faculty3</Title>
+        <StudentsAmount>100</StudentsAmount>
+        <Specialty>Specialty3</Specialty>
+      </Faculty>
+      <Faculty xsi:type="Zao">
+        <Title>Faculty2</Title>
+        <StudentsAmount>100</StudentsAmount>
+        <Specialty>Specialty2</Specialty>
+      </Faculty>
+      <Faculty xsi:type="Staz">
+        <Title>Faculty4</Title>
+        <StudentsAmount>600</StudentsAmount>
+        <Specialty>Specialty3</Specialty>
+      </Faculty>
+    </Faculties>
+  </University>
+</ArrayOfUniversity>
