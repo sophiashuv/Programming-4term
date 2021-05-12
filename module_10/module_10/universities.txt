@@ -1,0 +1,5 @@
+University1 1995:Staz Faculty1 200 Specialty1,Zao Faculty2 50 Specialty1,Zao Faculty4 450 Specialty2,Staz Faculty3 200 Specialty1
+University2 1885:Staz Faculty1 345 Specialty1,Zao Faculty2 400 Specialty3,Zao Faculty3 600 Specialty2,Staz Faculty3 178 Specialty1
+University4 1800:Zao Faculty2 160 Specialty2,Staz Faculty3 150 Specialty2,Zao Faculty4 450 Specialty2
+University3 1661:Staz Faculty1 350 Specialty1,Staz Faculty3 100 Specialty3,Zao Faculty2 100 Specialty2,Staz Faculty4 600 Specialty3
+University5 1789:Zao Faculty3 500 Specialty2,Zao Faculty2 67 Specialty1,Zao Faculty4 500 Specialty2
