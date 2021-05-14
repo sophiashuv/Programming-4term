@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Order>
+    <Who_orders>Shuvar</Who_orders>
+    <OAdress>
+      <City>Lviv</City>
+      <Street>Zelena</Street>
+      <House>45</House>
+    </OAdress>
+    <Tovar>Toy</Tovar>
+    <Price>200</Price>
+  </Order>
+</ArrayOfOrder>

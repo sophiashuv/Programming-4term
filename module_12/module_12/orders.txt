@@ -1,0 +1,8 @@
+Surname,City Street House,Name_tovar,Price
+Shuvar,Lviv,Zelena,45,Toy,200
+Chervonuy,Harkiv,Svobody,21,Book,300
+Gregoru,Ivano-Frankivsk,Golovna,23,Computer,100
+Gregoru,Ivano-Frankivsk,Golovna,25,Book,45
+Gregoru,Ivano-Frankivsk,Golovna,25,Book,89
+Gregoru,Ivano-Frankivsk,Golovna,23,Computer,200.89
+Gregoru,Ivano-Frankivsk,Golovna,23,Computer,200.898987
