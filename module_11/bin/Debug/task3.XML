@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Max_in_Cities>
+  <Cities>
+    <Location>Lviv</Location>
+    <Stations>1</Stations>
+  </Cities>
+  <Cities>
+    <Location>Kiev</Location>
+    <Stations>133</Stations>
+  </Cities>
+  <Cities>
+    <Location>Bolekhiv</Location>
+    <Stations>3</Stations>
+  </Cities>
+  <Cities>
+    <Location>Dolyna</Location>
+    <Stations>66</Stations>
+  </Cities>
+</Max_in_Cities>

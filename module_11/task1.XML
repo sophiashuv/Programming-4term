@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<StationsPrice>
+  <Stations>
+    <Number>1</Number>
+    <Locality>Lviv</Locality>
+    <TotalPrice>1800</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>66</Number>
+    <Locality>Dolyna</Locality>
+    <TotalPrice>1000</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>101</Number>
+    <Locality>Kiev</Locality>
+    <TotalPrice>300</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>3</Number>
+    <Locality>Bolekhiv</Locality>
+    <TotalPrice>1715</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>5</Number>
+    <Locality>Lviv</Locality>
+    <TotalPrice>450</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>122</Number>
+    <Locality>Bolekhiv</Locality>
+    <TotalPrice>150</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>133</Number>
+    <Locality>Kiev</Locality>
+    <TotalPrice>975</TotalPrice>
+  </Stations>
+  <Stations>
+    <Number>4</Number>
+    <Locality>Kiev</Locality>
+    <TotalPrice>260</TotalPrice>
+  </Stations>
+</StationsPrice>ns>
+</StationsPrice>

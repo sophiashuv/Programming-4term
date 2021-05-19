@@ -1,0 +1,9 @@
+Number,Locality
+1,Lviv
+66,Dolyna
+101,Kiev
+3,Bolekhiv
+5,Lviv
+122,Bolekhiv
+133,Kiev
+4,Kiev

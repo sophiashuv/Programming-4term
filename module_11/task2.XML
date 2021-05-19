@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<TotalPrice>
+  <Locations>
+    <Locality>Lviv</Locality>
+    <TotalPrice>2250</TotalPrice>
+  </Locations>
+  <Locations>
+    <Locality>Dolyna</Locality>
+    <TotalPrice>1000</TotalPrice>
+  </Locations>
+  <Locations>
+    <Locality>Kiev</Locality>
+    <TotalPrice>1535</TotalPrice>
+  </Locations>
+  <Locations>
+    <Locality>Bolekhiv</Locality>
+    <TotalPrice>1865</TotalPrice>
+  </Locations>
+</TotalPrice>
