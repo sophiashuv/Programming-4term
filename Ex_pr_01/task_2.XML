@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GasLocationsPrices>
+  <Info>
+    <Location>Lviv</Location>
+    <Price>2250</Price>
+  </Info>
+  <Info>
+    <Location>Kiev</Location>
+    <Price>1075</Price>
+  </Info>
+  <Info>
+    <Location>Bolekhiv</Location>
+    <Price>3580</Price>
+  </Info>
+  <Info>
+    <Location>Dolyna</Location>
+    <Price>1000</Price>
+  </Info>
+</GasLocationsPrices>

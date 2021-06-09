@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GasStationsPrices>
+  <Info>
+    <Number>1</Number>
+    <Location>Lviv</Location>
+    <Price>1800</Price>
+  </Info>
+  <Info>
+    <Number>133</Number>
+    <Location>Kiev</Location>
+    <Price>975</Price>
+  </Info>
+  <Info>
+    <Number>101</Number>
+    <Location>Kiev</Location>
+    <Price>100</Price>
+  </Info>
+  <Info>
+    <Number>3</Number>
+    <Location>Bolekhiv</Location>
+    <Price>1715</Price>
+  </Info>
+  <Info>
+    <Number>66</Number>
+    <Location>Dolyna</Location>
+    <Price>1000</Price>
+  </Info>
+  <Info>
+    <Number>5</Number>
+    <Location>Lviv</Location>
+    <Price>450</Price>
+  </Info>
+  <Info>
+    <Number>122</Number>
+    <Location>Bolekhiv</Location>
+    <Price>150</Price>
+  </Info>
+  <Info>
+    <Number>555</Number>
+    <Location>Bolekhiv</Location>
+    <Price>1715</Price>
+  </Info>
+</GasStationsPrices>

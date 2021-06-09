@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GasLocationsWinners>
+  <Info>
+    <Location>Lviv</Location>
+    <Winners>
+      <Winner>1</Winner>
+    </Winners>
+  </Info>
+  <Info>
+    <Location>Kiev</Location>
+    <Winners>
+      <Winner>133</Winner>
+    </Winners>
+  </Info>
+  <Info>
+    <Location>Bolekhiv</Location>
+    <Winners>
+      <Winner>3</Winner>
+      <Winner>555</Winner>
+    </Winners>
+  </Info>
+  <Info>
+    <Location>Dolyna</Location>
+    <Winners>
+      <Winner>66</Winner>
+    </Winners>
+  </Info>
+</GasLocationsWinners>
