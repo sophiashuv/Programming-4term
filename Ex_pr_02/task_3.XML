@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Service Name="Service3">
+    <Date Day="2021-11-12">
+      <Price>80.72</Price>
+    </Date>
+    <Date Day="2021-13-10">
+      <Price>71.62</Price>
+    </Date>
+    <Date Day="2021-24-02">
+      <Price>10.09</Price>
+    </Date>
+  </Service>
+  <Service Name="Service2">
+    <Date Day="2021-29-09">
+      <Price>61.4</Price>
+    </Date>
+    <Date Day="2021-06-02">
+      <Price>56.85</Price>
+    </Date>
+    <Date Day="2021-16-10">
+      <Price>11.37</Price>
+    </Date>
+  </Service>
+  <Service Name="Service5">
+    <Date Day="2021-25-03">
+      <Price>144.72</Price>
+    </Date>
+  </Service>
+  <Service Name="Service1">
+    <Date Day="2021-18-08">
+      <Price>16.66</Price>
+    </Date>
+    <Date Day="2021-28-04">
+      <Price>13.6</Price>
+    </Date>
+    <Date Day="2021-05-11">
+      <Price>4.64</Price>
+    </Date>
+  </Service>
+  <Service Name="Service6">
+    <Date Day="2021-12-11">
+      <Price>25.26</Price>
+    </Date>
+    <Date Day="2021-30-03">
+      <Price>15.62</Price>
+    </Date>
+    <Date Day="2021-24-09">
+      <Price>14.57</Price>
+    </Date>
+  </Service>
+  <Service Name="Service4">
+    <Date Day="2021-07-08">
+      <Price>6.67</Price>
+    </Date>
+    <Date Day="2021-01-01">
+      <Price>1.01</Price>
+    </Date>
+  </Service>
+</Task2>

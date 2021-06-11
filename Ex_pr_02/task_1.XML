@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VisitorsPrices>
+  <Info>
+    <Visitor>Visitor1 Surname1</Visitor>
+    <Price>51.72</Price>
+  </Info>
+  <Info>
+    <Visitor>Visitor3 Surname3</Visitor>
+    <Price>79.14</Price>
+  </Info>
+  <Info>
+    <Visitor>Visitor4 Surname4</Visitor>
+    <Price>225.44</Price>
+  </Info>
+  <Info>
+    <Visitor>Visitor5 Surname5</Visitor>
+    <Price>101.52</Price>
+  </Info>
+  <Info>
+    <Visitor>Visitor2 Surname2</Visitor>
+    <Price>76.98</Price>
+  </Info>
+</VisitorsPrices>

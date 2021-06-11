@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Service Name="Service3">
+    <Date Day="2021-24-02">
+      <Duration>0.5</Duration>
+      <Price>10.09</Price>
+    </Date>
+    <Date Day="2021-13-10">
+      <Duration>1.56</Duration>
+      <Price>71.62</Price>
+    </Date>
+    <Date Day="2021-11-12">
+      <Duration>2</Duration>
+      <Price>80.72</Price>
+    </Date>
+  </Service>
+  <Service Name="Service2">
+    <Date Day="2021-06-02">
+      <Duration>2</Duration>
+      <Price>56.85</Price>
+    </Date>
+    <Date Day="2021-16-10">
+      <Duration>1</Duration>
+      <Price>11.37</Price>
+    </Date>
+    <Date Day="2021-29-09">
+      <Duration>3.6</Duration>
+      <Price>61.4</Price>
+    </Date>
+  </Service>
+  <Service Name="Service5">
+    <Date Day="2021-25-03">
+      <Duration>3</Duration>
+      <Price>144.72</Price>
+    </Date>
+  </Service>
+  <Service Name="Service1">
+    <Date Day="2021-18-08">
+      <Duration>2.45</Duration>
+      <Price>16.66</Price>
+    </Date>
+    <Date Day="2021-05-11">
+      <Duration>0.3</Duration>
+      <Price>4.64</Price>
+    </Date>
+    <Date Day="2021-28-04">
+      <Duration>2</Duration>
+      <Price>13.6</Price>
+    </Date>
+  </Service>
+  <Service Name="Service6">
+    <Date Day="2021-24-09">
+      <Duration>1.4</Duration>
+      <Price>14.57</Price>
+    </Date>
+    <Date Day="2021-30-03">
+      <Duration>0.9</Duration>
+      <Price>15.62</Price>
+    </Date>
+    <Date Day="2021-12-11">
+      <Duration>1.6</Duration>
+      <Price>25.26</Price>
+    </Date>
+  </Service>
+  <Service Name="Service4">
+    <Date Day="2021-01-01">
+      <Duration>0.7</Duration>
+      <Price>1.01</Price>
+    </Date>
+    <Date Day="2021-07-08">
+      <Duration>2.78</Duration>
+      <Price>6.67</Price>
+    </Date>
+  </Service>
+</Task2>
