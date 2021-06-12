@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TopThreeRunners>
+  <Etap Etp="E1">
+    <Runner>Name7 Surname7</Runner>
+    <Runner>Name6 Surname6</Runner>
+    <Runner>Name1 Surname1</Runner>
+  </Etap>
+  <Etap Etp="E2">
+    <Runner>Name4 Surname4</Runner>
+    <Runner>Name5 Surname5</Runner>
+    <Runner>Name3 Surname3</Runner>
+  </Etap>
+  <Etap Etp="E3">
+    <Runner>Name7 Surname7</Runner>
+    <Runner>Name2 Surname2</Runner>
+    <Runner>Name2 Surname2</Runner>
+  </Etap>
+</TopThreeRunners>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Runner FullName="Name2 Surname2">
+    <EtapResult Etap="E2" Time="67" />
+    <EtapResult Etap="E3" Time="67" />
+    <EtapResult Etap="E3" Time="67" />
+  </Runner>
+  <Runner FullName="Name1 Surname1">
+    <EtapResult Etap="E1" Time="85" />
+    <EtapResult Etap="E2" Time="100" />
+    <EtapResult Etap="E3" Time="100" />
+  </Runner>
+</Task2>

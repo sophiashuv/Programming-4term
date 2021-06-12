@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task3>
+  <Runner FullName="Name1 Surname1">
+    <MaxSpeed>3</MaxSpeed>
+    <Etaps>
+      <Etp>E3</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name7 Surname7">
+    <MaxSpeed>4.615384615384615</MaxSpeed>
+    <Etaps>
+      <Etp>E3</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name4 Surname4">
+    <MaxSpeed>5.882352941176471</MaxSpeed>
+    <Etaps>
+      <Etp>E2</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name5 Surname5">
+    <MaxSpeed>5.7142857142857144</MaxSpeed>
+    <Etaps>
+      <Etp>E2</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name3 Surname3">
+    <MaxSpeed>5</MaxSpeed>
+    <Etaps>
+      <Etp>E2</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name2 Surname2">
+    <MaxSpeed>4.4776119402985071</MaxSpeed>
+    <Etaps>
+      <Etp>E3</Etp>
+      <Etp>E3</Etp>
+    </Etaps>
+  </Runner>
+  <Runner FullName="Name6 Surname6">
+    <MaxSpeed>27.777777777777779</MaxSpeed>
+    <Etaps>
+      <Etp>E3</Etp>
+    </Etaps>
+  </Runner>
+</Task3>
