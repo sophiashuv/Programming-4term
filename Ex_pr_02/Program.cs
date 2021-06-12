@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -122,11 +123,12 @@ namespace Ex_pr_02
                 into grouped
                 select new XElement("Service", 
                     new XAttribute("Name", grouped.Key.Service), 
-                    from g in grouped
-                        group g by g.Date into grouped2 
+                    from g in grouped 
+                    group g by g.Date.ToString("MMMM") + " " + g.Date.Year 
+                    into grouped2 
                         select new XElement
                         ("Date",
-                            new XAttribute("Day", grouped2.Key.Date.ToString("yyyy-dd-MM")),
+                            new XAttribute("Day", grouped2.Key),
                             new XElement("Duration", grouped2.Sum(el => el.Duration)),
                             new XElement("Price", Math.Round((double)grouped2.Sum(el => el.Price), 2))
                         )
@@ -159,16 +161,16 @@ namespace Ex_pr_02
                 into grouped
                 select new XElement("Service", 
                     new XAttribute("Name", grouped.Key.Service), 
-                    (from g in grouped
-                    group g by g.Date into grouped2
+                    from g in grouped
+                    group g by g.Date.ToString("MMMM") + " " + g.Date.Year into grouped2
                     let price = grouped2.Sum(el => el.Price)
                     orderby price descending 
                     select new XElement
                     ("Date",
-                        new XAttribute("Day", grouped2.Key.Date.ToString("yyyy-dd-MM")),
+                        new XAttribute("Day", grouped2.Key),
                         new XElement("Price", Math.Round(price, 2))
                     ))
-                ));
+                );
             
             //res2.Save("../../task_3.XML");
             return res2;
