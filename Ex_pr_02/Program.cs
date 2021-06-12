@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -23,7 +23,7 @@ namespace Ex_pr_02
         //     суму за спадаючим рейтингом
         //     4. Побудувати графiки для п.3, впорядковуючи данi за порядком мiсяцiв.
     
-    internal class Program
+    public class Program
     {
         public static void read_from_csv<T>(List<T> listContainer, string fileName) where T :  new()
         {
@@ -79,7 +79,7 @@ namespace Ex_pr_02
         
         //     1. Отримати xml-файл, де для кожного вiдвiдувача (за прiзвищем та iм’ям) вказана сумарна 
         //     вартiсть усiх його тренувань.
-        public static void Task1(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
+        public static XElement Task1(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
         {
             var res1 =  from t in trainings 
                 join v in visitors on t.VisitorId equals v.Id
@@ -94,12 +94,14 @@ namespace Ex_pr_02
                     new XElement("Price", Math.Round((double)grouped.Sum(el => el.Price), 2))
                     ));
             
-            res2.Save("../../task_1.XML");
+            //res2.Save("../../task_1.XML");
+            return res2;
         }
 
+        
         //     2. Отримати xml-файл, де для кожного виду тренувань вказано щомiсячну кiлькiсть наданих 
         //     годин та зароблену суму.
-        public static void Task2(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
+        public static XElement Task2(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
         {
             var res1 =  from t in trainings 
                 join v in visitors on t.VisitorId equals v.Id
@@ -130,12 +132,14 @@ namespace Ex_pr_02
                         )
                 ));
             
-            res2.Save("../../task_2.XML");
+            //res2.Save("../../task_2.XML");
+            return res2;
         }
+        
         
         //     3. Отримати xml-файл, де для кожного виду тренувань вказано зароблену за кожен мiсяць 
         //     суму за спадаючим рейтингом
-        public static void Task3(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
+        public static XElement Task3(List<Service> services, List<Visitors> visitors, List<Trainings> trainings)
         {
             var res1 =  from t in trainings 
                 join v in visitors on t.VisitorId equals v.Id
@@ -149,7 +153,7 @@ namespace Ex_pr_02
                     
                 };
             
-            var res2 = new XElement("Task2", 
+            var res2 = new XElement("Task3", 
                 from r in res1
                 group r by new {r.Id, r.Service}
                 into grouped
@@ -166,11 +170,11 @@ namespace Ex_pr_02
                     ))
                 ));
             
-            res2.Save("../../task_3.XML");
+            //res2.Save("../../task_3.XML");
+            return res2;
         }
 
-
-
+        
         public static void Main(string[] args)
         {
             var services = new List<Service>();
@@ -191,10 +195,13 @@ namespace Ex_pr_02
                 return;
             }
 
-            Task1(services, visitors, trainings);
-            Task2(services, visitors, trainings);
-            Task3(services, visitors, trainings);
-
+            var task1 = Task1(services, visitors, trainings);
+            var task2 = Task2(services, visitors, trainings);
+            var task3 = Task3(services, visitors, trainings);
+            
+            task1.Save("../../task_1.XML");
+            task2.Save("../../task_2.XML");
+            task3.Save("../../task_3.XML");
         }
     }
 }
