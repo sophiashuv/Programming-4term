@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task3>
+  <Location Loc="Hong_Kong">
+    <Customers TotalSum="302000">
+      <Customer Surname="Cheng H.">
+        <Tovar>
+          <Name>Asus_4r</Name>
+          <Amount>20</Amount>
+          <Price>240000</Price>
+        </Tovar>
+      </Customer>
+      <Customer Surname="Lian X.">
+        <Tovar>
+          <Name>Table_Brown</Name>
+          <Amount>6</Amount>
+          <Price>54000</Price>
+        </Tovar>
+        <Tovar>
+          <Name>Pringles</Name>
+          <Amount>100</Amount>
+          <Price>8000</Price>
+        </Tovar>
+      </Customer>
+    </Customers>
+  </Location>
+  <Location Loc="Lviv">
+    <Customers TotalSum="70080">
+      <Customer Surname="Shuvar S.">
+        <Tovar>
+          <Name>HP_6re</Name>
+          <Amount>4</Amount>
+          <Price>60000</Price>
+        </Tovar>
+        <Tovar>
+          <Name>Chair_Bege</Name>
+          <Amount>10</Amount>
+          <Price>10000</Price>
+        </Tovar>
+        <Tovar>
+          <Name>Pringles</Name>
+          <Amount>1</Amount>
+          <Price>80</Price>
+        </Tovar>
+      </Customer>
+    </Customers>
+  </Location>
+  <Location Loc="New-York">
+    <Customers TotalSum="55000">
+      <Customer Surname="Maple R.">
+        <Tovar>
+          <Name>Table_Brown</Name>
+          <Amount>5</Amount>
+          <Price>45000</Price>
+        </Tovar>
+        <Tovar>
+          <Name>Chair_Bege</Name>
+          <Amount>10</Amount>
+          <Price>10000</Price>
+        </Tovar>
+      </Customer>
+    </Customers>
+  </Location>
+  <Location Loc="Kyiv">
+    <Customers TotalSum="27000">
+      <Customer Surname="Magdalena M.">
+        <Tovar>
+          <Name>Table_Brown</Name>
+          <Amount>3</Amount>
+          <Price>27000</Price>
+        </Tovar>
+      </Customer>
+    </Customers>
+  </Location>
+  <Location Loc="Orlando">
+    <Customers TotalSum="4150">
+      <Customer Surname="Phantom D.">
+        <Tovar>
+          <Name>Chair_Bege</Name>
+          <Amount>4</Amount>
+          <Price>4000</Price>
+        </Tovar>
+        <Tovar>
+          <Name>Chitos</Name>
+          <Amount>3</Amount>
+          <Price>150</Price>
+        </Tovar>
+      </Customer>
+    </Customers>
+  </Location>
+</Task3>

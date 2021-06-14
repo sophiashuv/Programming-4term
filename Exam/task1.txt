@@ -1,0 +1,17 @@
+Cheng H.
+	Asus_4r,20,480000
+Lian X.
+	Pringles,100,2400
+	Table_Brown,6,1080000
+Magdalena M.
+	Table_Brown,3,540000
+Maple R.
+	Chair_Bege,10,100000
+	Table_Brown,5,900000
+Phantom D.
+	Chitos,3,75
+	Chair_Bege,4,40000
+Shuvar S.
+	Pringles,1,24
+	Chair_Bege,10,100000
+	HP_6re,4,120000

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Customer Surname="Cheng H.">
+    <Tovar>
+      <Name>Asus_4r</Name>
+      <Amount>20</Amount>
+      <Price>240000</Price>
+      <Location>Hong_Kong</Location>
+    </Tovar>
+  </Customer>
+  <Customer Surname="Shuvar S.">
+    <Tovar>
+      <Name>HP_6re</Name>
+      <Amount>4</Amount>
+      <Price>60000</Price>
+      <Location>Lviv</Location>
+    </Tovar>
+    <Tovar>
+      <Name>Chair_Bege</Name>
+      <Amount>10</Amount>
+      <Price>10000</Price>
+      <Location>Lviv</Location>
+    </Tovar>
+    <Tovar>
+      <Name>Pringles</Name>
+      <Amount>1</Amount>
+      <Price>80</Price>
+      <Location>Lviv</Location>
+    </Tovar>
+  </Customer>
+  <Customer Surname="Maple R.">
+    <Tovar>
+      <Name>Table_Brown</Name>
+      <Amount>5</Amount>
+      <Price>45000</Price>
+      <Location>New-York</Location>
+    </Tovar>
+    <Tovar>
+      <Name>Chair_Bege</Name>
+      <Amount>10</Amount>
+      <Price>10000</Price>
+      <Location>New-York</Location>
+    </Tovar>
+  </Customer>
+  <Customer Surname="Magdalena M.">
+    <Tovar>
+      <Name>Table_Brown</Name>
+      <Amount>3</Amount>
+      <Price>27000</Price>
+      <Location>Kyiv</Location>
+    </Tovar>
+  </Customer>
+  <Customer Surname="Lian X.">
+    <Tovar>
+      <Name>Table_Brown</Name>
+      <Amount>6</Amount>
+      <Price>54000</Price>
+      <Location>Hong_Kong</Location>
+    </Tovar>
+    <Tovar>
+      <Name>Pringles</Name>
+      <Amount>100</Amount>
+      <Price>8000</Price>
+      <Location>Hong_Kong</Location>
+    </Tovar>
+  </Customer>
+  <Customer Surname="Phantom D.">
+    <Tovar>
+      <Name>Chair_Bege</Name>
+      <Amount>4</Amount>
+      <Price>4000</Price>
+      <Location>Orlando</Location>
+    </Tovar>
+    <Tovar>
+      <Name>Chitos</Name>
+      <Amount>3</Amount>
+      <Price>150</Price>
+      <Location>Orlando</Location>
+    </Tovar>
+  </Customer>
+</Task2>

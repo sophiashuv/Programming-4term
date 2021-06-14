@@ -1,0 +1,7 @@
+Id,Name,Category,Unit,Price
+1,Asus_4r,Electronic,2,12000
+2,HP_6re,Electronic,2,15000
+3,Table_Brown,Furniture,20,9000
+4,Chair_Bege,Furniture,10,1000
+5,Chitos,Snacks,0.5,50
+6,Pringles,Snacks,0.3,80
