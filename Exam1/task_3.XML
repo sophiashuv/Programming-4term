@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task3>
+  <Subject Subject="Programming">
+    <Group>CS1</Group>
+    <Group>CS3</Group>
+    <Group>CS2</Group>
+  </Subject>
+  <Subject Subject="Statistics">
+    <Group>CS3</Group>
+    <Group>CS1</Group>
+    <Group>CS2</Group>
+  </Subject>
+  <Subject Subject="Algorithms">
+    <Group>CS1</Group>
+    <Group>CS3</Group>
+    <Group>CS2</Group>
+  </Subject>
+</Task3>

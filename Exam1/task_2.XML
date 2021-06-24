@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Task2>
+  <Res Subject="Programming">
+    <Results Group="CS1">
+      <Student Name="Mahdenko Valeria" Points="70" />
+      <Student Name="Shuvar Sophia" Points="100" />
+      <Student Name="Sloboda Ira" Points="30" />
+    </Results>
+    <Results Group="CS2">
+      <Student Name="Ponnomarenko Maria" Points="99" />
+    </Results>
+    <Results Group="CS3">
+      <Student Name="Petrishen Max" Points="45" />
+    </Results>
+  </Res>
+  <Res Subject="Statistics">
+    <Results Group="CS1">
+      <Student Name="Mahdenko Valeria" Points="97" />
+      <Student Name="Shuvar Sophia" Points="100" />
+      <Student Name="Sloboda Ira" Points="100" />
+    </Results>
+    <Results Group="CS2">
+      <Student Name="Patramanskyi Max" Points="100" />
+      <Student Name="Ponnomarenko Maria" Points="89" />
+    </Results>
+    <Results Group="CS3">
+      <Student Name="Petah Norbert" Points="69" />
+      <Student Name="Petrishen Max" Points="88" />
+    </Results>
+  </Res>
+  <Res Subject="Algorithms">
+    <Results Group="CS1">
+      <Student Name="Mahdenko Valeria" Points="70" />
+      <Student Name="Shuvar Sophia" Points="100" />
+      <Student Name="Sloboda Ira" Points="45" />
+    </Results>
+    <Results Group="CS2">
+      <Student Name="Patramanskyi Max" Points="99" />
+    </Results>
+    <Results Group="CS3">
+      <Student Name="Petrishen Max" Points="30" />
+    </Results>
+  </Res>
+</Task2>

@@ -1,0 +1,7 @@
+1,Sophia,Shuvar,CS1
+2,Maria,Ponnomarenko,CS2
+3,Valeria,Mahdenko,CS1
+4,Norbert,Petah,CS3
+5,Max,Petrishen,CS3
+6,Ira,Sloboda,CS1
+7,Max,Patramanskyi,CS2
